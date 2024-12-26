@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kazi Mohammad Nazib
 
 🎓 **M.Sc. in Applied Mathematics**  
-🔭 Aspiring researcher in combinatorial optimization, algorithm development, and data analysis.  
+🔭 Aspiring researcher in combinatorial optimization, algorithm development, machine learning and data science.  
 📍 **Location:** Dhaka, Bangladesh
 
 ---
